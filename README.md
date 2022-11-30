@@ -7,9 +7,9 @@ To see my recent projects, click [here](https://github.com/schen044?tab=reposito
 For a direct link to each project:<br>
 ![HCGIM Tracker](https://github.com/schen044/HCGIM-Tracker)<br>
 [Out of Office:](https://github.com/schen044/Out-Of-Office)<br>
-<img src="https://github.com/schen044/Out-Of-Office/raw/main/public/images/webpage-screenshot/trip-detail-page.png" height="750"><br>
+<img src="https://github.com/schen044/Out-Of-Office/raw/main/public/images/webpage-screenshot/trip-detail-page.png" height="500"><br>
 [Collections Tracker:](https://github.com/schen044/Collections-Tracker)<br>
-<img src="https://github.com/schen044/Collections-Tracker/raw/main/public/images/itemlist.png" height="750"><br>
+<img src="https://github.com/schen044/Collections-Tracker/raw/main/public/images/itemlist.png" height="500"><br>
 
 ---
 You can find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serra-chen/)<br>
