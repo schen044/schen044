@@ -4,7 +4,7 @@ When I'm not 🎮gaming or working on my ⌨️ keyboards, I'm trolling the in
 
 ---
 To see my recent projects, click [here](https://github.com/schen044?tab=repositories).<br>
-For a direct link to each project:<br>
+For a direct link to a few projects:<br>
 ![HCGIM Tracker](https://github.com/schen044/HCGIM-Tracker)<br>
 [Out of Office:](https://github.com/schen044/Out-Of-Office)<br>
 <img src="https://github.com/schen044/Out-Of-Office/raw/main/public/images/webpage-screenshot/trip-detail-page.png" height="500"><br>
